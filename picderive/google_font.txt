@@ -1,0 +1,17 @@
+cdn
+-------------
+<link href="https://fonts.googleapis.com/css?family=Francois+One&display=swap" rel="stylesheet">
+
+
+
+
+
+how to use ?
+<style>
+
+h1{
+	font-family: 'Francois One', sans-serif;
+
+}
+
+</style>
