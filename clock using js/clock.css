@@ -1,0 +1,39 @@
+.analog{
+    background-color: #D9D9DA;
+    width: 45vw;
+    height: 45vw;
+    background-image: url("NicePng_jam-png_815586.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: auto;
+    border: 5px solid black;
+    border-radius: 55%;
+    position: relative;
+}
+#hour , #minute ,#second{
+    position: absolute;
+    background-color: black;
+    border-radius: 10px;
+    transform-origin: bottom;
+}
+#hour{
+    width: 1.5%;
+    height:25%;
+    top: 26%;
+    left: 50%;
+    background-color: black
+}
+#minute{
+    width: 1.5%;
+    height:30%;
+    top: 21%;
+    left: 50%;
+    background-color: red;
+}
+#second{
+    width: 1.5%;
+    height:38%;
+    background-color: green;
+    top: 13%;
+    left: 50%;
+}
